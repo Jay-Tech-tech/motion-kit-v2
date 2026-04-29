@@ -1,0 +1,25 @@
+{
+    "name": "Motion Kit v2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "MotionKit V2": "github:tinysuperlab/motionkitv2#v0.1.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.1.11",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
